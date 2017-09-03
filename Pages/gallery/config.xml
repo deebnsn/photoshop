@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	indexPageName="gallery.html"
+	galleryTitle="Students Gallery"
+
+>
+  <image imageURL="images/malahide.jpg"
+	thumbURL="thumbs/malahide.jpg"
+	linkURL="images/malahide.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\pvben\Desktop\Photoshop website\images\malahide.jpg">
+    <title><![CDATA[malahide]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/finished.jpg"
+	thumbURL="thumbs/finished.jpg"
+	linkURL="images/finished.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\pvben\Desktop\Photoshop website\Compositions\finished.jpg">
+    <title><![CDATA[finished]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
