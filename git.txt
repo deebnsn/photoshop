@@ -1,0 +1,14 @@
+install git and git bash
+cd to a folder you want it in
+
+git clone https://github.com/deebnsn/photoshop.git --for example. this will clone repository from online to pc. now can make changes from this newly created folder and push to github
+
+
+cd photoshop    --- move to photosop directory
+
+--if alter file on pc and want to push --
+git commit -a -m "whatever" 
+git push origin master
+
+
+
