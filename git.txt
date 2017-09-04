@@ -12,3 +12,10 @@ git push origin master
 
 
 
+--to add a file
+git add .
+git commit -a -m "whatever" 
+git push origin master
+
+
+
